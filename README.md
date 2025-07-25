@@ -47,7 +47,3 @@ countries/
 
 - Font: Nunito Sans (Google Fonts)
 - Icons: Material Symbols (Google Fonts)
-
-## License
-
-This project is licensed under the MIT License.
